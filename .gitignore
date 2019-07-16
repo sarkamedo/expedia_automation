@@ -1,0 +1,12 @@
+tests/home_tests/__pycache__/test_hotel_search.cpython-37-pytest-5.0.1.pyc
+.DS_Store
+.pytest_cache/v/cache/lastfailed
+.pytest_cache/v/cache/nodeids
+.pytest_cache/v/cache/stepwise
+pages/.DS_Store
+pages/__pycache__/__init__.cpython-37.pyc
+pages/home_pages/__pycache__/__init__.cpython-37.pyc
+pages/home_pages/__pycache__/main_page.cpython-37.pyc
+tests/__pycache__/__init__.cpython-37.pyc
+tests/home_tests/__pycache__/__init__.cpython-37.pyc
+tests/home_tests/__pycache__/test_hotel_search.cpython-37.pyc
